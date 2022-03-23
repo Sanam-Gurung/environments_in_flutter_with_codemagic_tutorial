@@ -1,4 +1,4 @@
-package com.resocoder.environments_with_codemagic_tutorial
+package com.clickandpress.cicd_test
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626510813138",
+    "project_id": "cicd-test-333bc",
+    "storage_bucket": "cicd-test-333bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626510813138:android:acb205f8d3bce979aa9a0b",
+        "android_client_info": {
+          "package_name": "com.clickandpress.cicd_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626510813138-thpucstlfdja2uubpslg40i8qhcu6l8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhu_F31bgEbrKyyrEw7JkFatnvr6KvHAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626510813138-thpucstlfdja2uubpslg40i8qhcu6l8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
